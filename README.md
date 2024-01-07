@@ -1,6 +1,6 @@
 ## Bộ dữ liệu Thu nhập điều tra dân số của người dân Mỹ
 Bộ dữ liệu được sử dụng để khảo sát các yếu tố ảnh hưởng đến mức thu nhập cá nhân hàng năm của người dân Mỹ, đặc biệt là khả năng kiếm được thu nhập trên 50.000 USD. Đây là mức thu nhập cao, nằm trong top quartile thu nhập của người dân Mỹ. Việc xác định các yếu tố ảnh hưởng giúp đưa ra khuyến nghị phát triển bản thân và nâng cao khả năng thu nhập.
-# 1. Các câu hỏi nghiên cứu để đưa ra các thắc mắc là:
+# 1. Các câu hỏi nghiên cứu là:
 - Những yếu tố nào ảnh hưởng đến việc một cá nhân có thu nhập hơn 50.000 USD mỗi năm?
 - Giới tính có ảnh hưởng đến mức thu nhập không?
 - Người trẻ tuổi dễ kiếm hơn 50.000 USD so với người trung niên không?
